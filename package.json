@@ -1,0 +1,30 @@
+{
+  "name": "learn_node_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anhpvt1612/learn_nodejs.git"
+  },
+  "keywords": [
+    "learn_node",
+    "nodejs"
+  ],
+  "author": "anhpvt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anhpvt1612/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/Anhpvt1612/learn_nodejs#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
